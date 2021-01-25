@@ -6,7 +6,7 @@ This repo is a place to centralize communication, documents, and information abo
 
 Discussions take place in this Repo's [Discussions section](https://github.com/suborbital/meta/discussions)
 
-Future uses for this repo will include contributor guides, code of conduct, etc.
+This repo contains the contributor [Code of Conduct](./CODE_OF_CONDUCT.md) for all Suborbital projects.
 
 Please file an issue for anything you would like to see added.
 
