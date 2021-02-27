@@ -1,5 +1,5 @@
 # Suborbital Architecture
-This page is a general overview of the architecture of Atmo, and some notes about the architecture of the projects that comprise it.]
+This page is a general overview of Atmo's architecture, and some notes about the design of the projects that comprise it.
 
 ![Atmo Architecture](https://user-images.githubusercontent.com/5942370/109400927-8eb06400-7919-11eb-8ac7-45c11d83707d.png)
 
